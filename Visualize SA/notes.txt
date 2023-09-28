@@ -1,0 +1,37 @@
+0: [run number]: 
+1: indirectTransmissionDistance: {2.0}
+2: fatalityProbRange1: {0.007}
+3: distanceOfContagion: {1.5, 2.0}
+4: fatalityProbRange2: {0.07}
+5: recoveryTime: {10.0, 18.0, 14.0}
+6: facilityWidth: {40.0, 36.0, 30.0}
+7: maxMovementsPerDay: {305.0, 250.0, 350.0}
+8: indirectTransmissionParameter: {0.015, 0.15}
+9: simulationDays: {365.0}
+10: movementProbRange1: {0.3}
+11: contagionProb2Range2: {0.0065}
+12: movementProbRange2: {0.5}
+13: secretionRate: {0.008}
+14: populationSize: {200.0}
+15: incubationTimeRange1: {3.0, 5.0, 7.0}
+16: contagionProb3Range1: {0.0045}
+17: contagionProb3Range2: {0.005}
+18: contagionProb1Range1: {0.02}
+19: incubationTimeRange2: {6.0}
+20: decayRate: {0.25}
+21: initialConcentration: {0.0}
+22: contagionProb1Range2: {0.03}
+23: smallMovementProbRange1: {0.7}
+24: externalInfectionParameter: {0.015}
+25: smallMovementProbRange2: {0.9}
+26: contagionProb2Range1: {0.006}
+27: maxRadiusLocalMovement: {5.0}
+28: facilityHeight: {36.0}
+29: initialNumberOfInfectedAgents: {0.0, 10.0, 5.0}
+30: numberOfVaccinatedAgents: {0.0, 40.0, 20.0}
+31: numberOfAsymptomaticAgents: {50.0, 100.0, 150.0}
+32: [step]: {364.0}
+33: totalInfected: 
+34: peakInfected: 
+35: peakDay: 
+
